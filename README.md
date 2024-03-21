@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nelson-code
-- 🌱 I’m currently learning ...Python
+- Data Science enthusiast
+- 🌱 Good in C, Python
 - 💞️ I’m looking to collaborate on ...enthusiastic coding community
-- 📫 How to reach me ...sr630817@gmail.com
+- 📫 How to reach me ...nelsonskr48@gmail.com
 
 <!---
 Nelson-code/Nelson-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
