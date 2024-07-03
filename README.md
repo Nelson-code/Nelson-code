@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelson-code
-- Data Science enthusiast
-- 🌱 Good in C, Python
+- 🥇Aspiring Data Scientist
+- 🌱 Good in Data analysis, Modelling, Story telling
 - 💞️ I’m looking to collaborate on ...enthusiastic coding community
 - 📫 How to reach me ...nelsonskr48@gmail.com
 
