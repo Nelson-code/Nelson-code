@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nelson-code
-- 🥇Aspiring Data Scientist
-- 🌱 Good in Data analysis, Modelling, Story telling
+- 📈 Aspiring Data Analyst
+- 🌱 Good in Data analysis, Modelling, Problem solving
 - 💞️ I’m looking to collaborate on ...enthusiastic coding community
 - 📫 How to reach me ...nelsonskr48@gmail.com
 
